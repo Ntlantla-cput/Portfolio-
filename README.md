@@ -2,6 +2,7 @@
 **Student Number:** 222133872 
 **Location:** Cape Town, South Africa
 **License:** Code 14 Driver's License
+**Phone Number:** 0769567657
 
 ## Professional Summary
 I am a results-driven Software Engineering student at CPUT with a strong foundation in full-stack development. My expertise lies in building scalable applications using Java (Spring Boot) and React, with a specialized focus on Database Development and PostgreSQL optimization.
