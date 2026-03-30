@@ -3,6 +3,11 @@
 **Location:** Cape Town, South Africa
 **License:** Code 14 Driver's License
 
+## Professional Summary
+I am a results-driven Software Engineering student at CPUT with a strong foundation in full-stack development. My expertise lies in building scalable applications using Java (Spring Boot) and React, with a specialized focus on Database Development and PostgreSQL optimization.
+
+I am passionate about creating technical solutions for complex social challenges, as seen in my work on student housing and eCommerce platforms. Beyond my technical skills, my Code 14 License and background in logistics have instilled in me a disciplined, detail-oriented work ethic and the ability to manage high-stakes projects under pressure.
+
 ## Education
 * **Cape Peninsula University of Technology (CPUT)**
   * Software Engineering (ADP326S)
