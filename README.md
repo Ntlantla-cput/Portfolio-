@@ -32,3 +32,18 @@ I am passionate about creating technical solutions for complex social challenges
 
 ## Professional Certifications
 * Code 14 Heavy Vehicle Driver's License
+
+## CV Reflection (STAR Method)
+
+**Situation**
+While studying Software Engineering at Cape Peninsula University of Technology in Cape Town, I had the chance to work on projects that felt close to real industry situations. These weren’t just academic tasks—they pushed me to think about how technology can actually solve everyday problems, especially challenges students face.
+
+**Task**
+My goal was to build practical applications while improving my skills in full-stack development. I also wanted to go beyond just “making things work” and focus on creating systems that are efficient, reliable, and useful in real life—particularly in areas like database management and user-focused solutions.
+
+**Action**
+I worked with Java (Spring Boot) and React to develop my projects, paying close attention to how the frontend and backend connect. In the eCommerce project, I focused on the database side, making sure data moved smoothly and efficiently using PostgreSQL. For the student accommodation idea, I took a step back and thought about a real issue—how hard it can be for students to find housing—and designed a solution around that.
+At the same time, my Code 14 driver’s license and logistics experience taught me discipline and responsibility, which helped me stay organized and handle pressure during project deadlines.
+
+**Result**
+These experiences helped me grow not just technically, but also in how I approach problems. I became more confident in building full systems and more aware of how software can make a real difference. Overall, I feel better prepared to step into a professional environment, with both the technical skills and the mindset needed to contribute effectively.
