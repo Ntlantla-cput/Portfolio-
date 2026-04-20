@@ -47,3 +47,18 @@ At the same time, my Code 14 driver’s license and logistics experience taught 
 
 **Result**
 These experiences helped me grow not just technically, but also in how I approach problems. I became more confident in building full systems and more aware of how software can make a real difference. Overall, I feel better prepared to step into a professional environment, with both the technical skills and the mindset needed to contribute effectively.
+
+## Pages Deployment Reflection (STAR Method)
+
+**Situation**
+As part of sharing my work and making my projects more accessible, I decided to deploy one of my applications using GitHub Pages. Being a student at Cape Peninsula University of Technology in Cape Town, this felt like an important step toward presenting my work in a more professional and public way.
+
+**Task**
+My goal was to successfully deploy my project so that it could be viewed online, instead of only running locally. I also wanted to understand the deployment process better, including how to prepare a project for hosting and deal with any issues that might come up.
+
+**Action**
+I prepared my project for deployment by making sure everything was properly structured and compatible with GitHub Pages, especially the frontend built with React. I configured the necessary settings, pushed my code to GitHub, and worked through a few issues like broken paths and build errors.
+It took some trial and error, and I had to troubleshoot problems by reading documentation and testing different fixes, but I stayed patient and kept adjusting until the site worked correctly online.
+
+**Result**
+In the end, I was able to successfully deploy my project and make it accessible through a live link. This experience helped me understand the importance of deployment in the development process, not just coding. I also improved my problem-solving skills and became more confident in handling technical issues on my own. Now, I feel more prepared to share my work publicly and take on similar tasks in future projects.
